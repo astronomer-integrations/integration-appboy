@@ -31,10 +31,11 @@
     }
   },
   "output": {
-    "app_group_id": "6bc2109a-770a-4ca3-8db7-775f1326f749",
+    "app_group_id": "d54c3d18-71d5-4ebc-8a41-5cfae902977f",
     "purchases": [
       {
         "external_id": "track-products-minor-error-user-id",
+        "app_id": "my_api_key",
         "product_id": "507f1f77bcf86cd799439011",
         "time": "2015-01-01T00:00:00.000Z",
         "price": 19,
@@ -44,6 +45,7 @@
       },
       {
         "external_id": "track-products-minor-error-user-id",
+        "app_id": "my_api_key",
         "product_id": "505bd76785ebb509fc183733",
         "time": "2015-01-01T00:00:00.000Z",
         "price": "xxx-error",

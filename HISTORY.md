@@ -1,4 +1,14 @@
 
+1.6.0 / 2017-04-04
+==================
+
+  * Add support for passing AppId/ApiKey as request parameters of server-side events
+  
+1.5.3 / 2017-04-03
+==================
+
+  * Update the Appboy account credentials in test suites. 
+
 1.5.0 / 2017-01-31
 ==================
 
